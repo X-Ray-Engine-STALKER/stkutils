@@ -4,7 +4,7 @@
 ## Версия
 2014.05.21
 
-Исходный код взять отсюда:
+Исходный код взят отсюда:
 [AMK форум](https://www.amk-team.ru/forum/topic/11568-universal-acdc-i-drugie-perl-skripty/?tab=comments#comment-627809)
 
 ## Авторы:
